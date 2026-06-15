@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Shan 👋
 
 <!--
 **chiang-sh/chiang-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a backend engineer specializing in web applications and RESTful APIs.
+
+Interested in cybersecurity, CS fundamentals, and building side projects. 👩🏻‍🍳
