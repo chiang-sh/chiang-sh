@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 I'm a backend engineer specializing in web applications and RESTful APIs.
 
 Interested in cybersecurity, CS fundamentals, and building side projects. 👩🏻‍🍳
+
+📝 Java and LeetCode notes: [https://medium.com/@chiang-sh](https://medium.com/@chiang-sh). 
+
+📫 How to reach me: [chiangsh@oregonstate.edu](chiangsh@oregonstate.edu).
